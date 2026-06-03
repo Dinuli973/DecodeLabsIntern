@@ -12,4 +12,18 @@ while True:
     elif user_input=="Good Afternoon":
         print("Good Afternoon")
 
+    #Questions
+    elif user_input=="How are you?":
+        print("I am Fine. Thank you for asking")
+    elif user_input=="what's your name?":
+        print("My name is ChatBot")
+    elif user_input=="What's your favorite color?":
+        print("My favorite color is blue")
 
+    #exit
+    elif user_input=="bye":
+        print("Goodbye! Have a nice day.")
+        break
+
+    else:
+        print("Invalid Input.I don't understand that.")
