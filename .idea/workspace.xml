@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb83179f-f98d-4140-a7dd-1af096c4eb61" name="Changes" comment="Created basic rules for chatbot greetings." />
+    <list default="true" id="bb83179f-f98d-4140-a7dd-1af096c4eb61" name="Changes" comment="Add more rules.">
+      <change beforePath="$PROJECT_DIR$/Project 1/RuleBasedChatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project 1/RuleBasedChatbot.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.RuleBasedChatbot.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -69,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780489240312</updated>
-      <workItem from="1780489241678" duration="1011000" />
+      <workItem from="1780489241678" duration="2692000" />
     </task>
     <task id="LOCAL-00001" summary="Created basic rules for chatbot greetings.">
       <option name="closed" value="true" />
@@ -79,7 +82,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780490234250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created basic rules for chatbot greetings.">
+      <option name="closed" value="true" />
+      <created>1780490496530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780490496530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add more rules.">
+      <option name="closed" value="true" />
+      <created>1780491573635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780491573635</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +106,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created basic rules for chatbot greetings." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created basic rules for chatbot greetings." />
+    <MESSAGE value="Add more rules." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more rules." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DecodeLabsIntern$RuleBasedChatbot.coverage" NAME="RuleBasedChatbot Coverage Results" MODIFIED="1780491906344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 1" />
   </component>
 </project>

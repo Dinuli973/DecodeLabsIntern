@@ -13,11 +13,11 @@ while True:
         print("Good Afternoon")
 
     #Questions
-    elif user_input=="How are you?":
+    elif user_input=="How are you":
         print("I am Fine. Thank you for asking")
-    elif user_input=="what's your name?":
+    elif user_input=="what's your name":
         print("My name is ChatBot")
-    elif user_input=="What's your favorite color?":
+    elif user_input=="What's your favorite color":
         print("My favorite color is blue")
 
     #exit
