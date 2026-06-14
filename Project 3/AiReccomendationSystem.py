@@ -1,7 +1,7 @@
 print("Simple Movie Recommendation System")
 print("-------------------------------")
 
-genre=input("Enter a genre(Action,Comedy,Sci-Fi,Horror):)")
+genre=input("Enter a genre(Action,Comedy,Sci-Fi,Horror):")
 
 movies={
     "Action":["John Wick","Mission Impossible","Fast and Furious"],
@@ -10,3 +10,11 @@ movies={
     "Horror":["Conjuring","Annabelle","Scream","Insidious"]
 }
 
+if genre in movies:
+    print("Recommendations:")
+
+    for movie in movies[genre]:
+        print("-",movie)
+
+else:
+    print("No recommendations available.")
