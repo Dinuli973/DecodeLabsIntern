@@ -15,6 +15,9 @@ Classification task using SVM:
 - Parameter tuning
 - Model evaluation
 
+### Project 3
+An AI REcommendation system for movie preferences.
+
 ### IrisDataSVM
 Support Vector Machine (SVM) implementation using the Iris dataset.
 
